@@ -1,3 +1,6 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&descSize=20&descAlign=50&descAlignY=20&theme=default"  />
+</div>
 <h3 align="left">I'm Rahul Kumar<br>- Btech Student<br>- Dev Bhoomi Uttarakhand University</h3>
 
 ###
@@ -74,5 +77,7 @@
 
 <br clear="both">
 
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
 ###
