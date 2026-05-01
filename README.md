@@ -60,10 +60,11 @@
 <h3> Contact Me : </h3>
 <div align="left">
   <!-- <img src="https://www.instagram.com/_rahul_._yt_/" height="35" alt="instagram logo"  /> -->
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="rahul.kumar1725yt@gmail.com" height="35" alt="gmail logo"  />
-  <img src="www.linkedin.com/in/rahul-kumar-75072b268
-hi" height="35" alt="linkedin logo"  />
+  <!-- <img src="rahul.kumar1725yt@gmail.com" height="35" alt="gmail logo"  />
+  <img src="www.linkedin.com/in/rahul-kumar-75072b268 -->
+  <a href="https://www.instagram.com/_rahul_._yt_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
+  <a href="www.linkedin.com/in/rahul-kumar-75072b268"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=00ff00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo" /></a>
+  <a href="rahul.kumar1725yt@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0000ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
 </div>
 
 ###
