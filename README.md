@@ -64,7 +64,7 @@
   <img src="www.linkedin.com/in/rahul-kumar-75072b268 -->
   <a href="https://www.instagram.com/_rahul_._yt_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
   <a href="www.linkedin.com/in/rahul-kumar-75072b268"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=00ff00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linkedin logo" /></a>
-  <a href="rahul.kumar1725yt@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0000ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
+  <a href="https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSDZqtfLzjhXqWjVGcbbrKmVbKTvZzDqSbsmQsjmnwjxgSNKdbzgRmdgzGkfQGqwWrnHWQSK"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0000ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" /></a>
 </div>
 
 ###
